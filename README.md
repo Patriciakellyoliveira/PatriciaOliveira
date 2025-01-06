@@ -1,5 +1,5 @@
 # PatriciaOliveira
-## Olá eu sou a Patricia Kelly, Estudante e atuante na area  de programação e tecnologia!!
+## Olá eu sou a Patricia Kelly, estudo analise e desenvolvimento de sistems na FAM, e atuo na area  de programação e tecnologia!!
 <div align="center">
   <a href="https://github.com/Patriciakellyoliveira">
 </div>
@@ -9,8 +9,6 @@
   <img align="center" alt="Paty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paty-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Paty-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
